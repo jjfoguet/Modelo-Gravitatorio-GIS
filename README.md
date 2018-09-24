@@ -1,2 +1,2 @@
 # Huff-Model
-script con arcpy para llevar a cabo un modelo gravitatorio sin calibrar
+Script con arcpy para llevar a cabo un modelo gravitatorio sin calibrar. Hecho con distancias euclidianas.
